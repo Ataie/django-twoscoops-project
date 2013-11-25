@@ -4,8 +4,8 @@
     <facet type="django" name="Django">
       <configuration>
         <option name="rootFolder" value="$MODULE_DIR$" />
-        <option name="settingsModule" value="project_name/project_name/settings/local.py" />
-        <option name="manageScript" value="project_name/manage.py" />
+        <option name="settingsModule" value="app/project/settings/local.py" />
+        <option name="manageScript" value="app/manage.py" />
       </configuration>
     </facet>
   </component>
